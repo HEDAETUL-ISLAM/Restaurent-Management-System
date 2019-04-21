@@ -12,6 +12,7 @@
 11. Two new option Discount and Vat has added (Make sure that you have filled discount and vat).
 12. When you will press print button a printable file will generate and printer option will come. If there is no printer it will not print .
 13. Database model has given in >>>>DatabasePicture<<<< Section
+14. Employee status is 0 and Admin statu is 1
 
 
 									--------------------------------------------Thats All--------------------------------------
