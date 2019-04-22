@@ -31,7 +31,7 @@ namespace RestaurentManagement
         MenuController menuController = new MenuController();
         private void BreakfastPanel_Load(object sender, EventArgs e)
         {
-            foreach (DataRow items in menuController.getDinner().Rows)
+            foreach (DataRow items in menuController.getBreakFast().Rows)
             {
                 int n = breakfastGridView.Rows.Add();
                 breakfastGridView.Rows[n].Cells[1].Value = items[0];
